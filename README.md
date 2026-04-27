@@ -10,9 +10,9 @@
 
 ---
 
-## 📊 VISITAS
+## WALLLLAS
 <p align="center">
-    <img src="https://gpvc.arturio.dev/tuusuario" />
+    <img src="https://media1.tenor.com/m/1RqF5osgza4AAAAd/wallace-wells-spto.gif" />
 </p>
 
 ---
