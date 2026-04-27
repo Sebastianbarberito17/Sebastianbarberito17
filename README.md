@@ -12,7 +12,7 @@
 
 ## WALLLLAS
 <p align="center">
-    <img src="https://media1.tenor.com/m/1RqF5osgza4AAAAd/wallace-wells-spto.gif" />
+    <img src="https://art.pixilart.com/sr208e96e8aedaws3.png" />
 </p>
 
 ---
