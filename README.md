@@ -10,9 +10,9 @@
 
 ---
 
-## WALLLLAS
+## BIENVENIDOS
 <p align="center">
-    <img src="https://art.pixilart.com/sr208e96e8aedaws3.png" width = 100px />
+    <img src="https://art.pixilart.com/sr208e96e8aedaws3.png" width = 300px />
   
 </p>
 
