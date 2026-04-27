@@ -12,7 +12,8 @@
 
 ## WALLLLAS
 <p align="center">
-    <img src="https://art.pixilart.com/sr208e96e8aedaws3.png" />
+    <img src="https://art.pixilart.com/sr208e96e8aedaws3.png" width = 100px />
+  
 </p>
 
 ---
